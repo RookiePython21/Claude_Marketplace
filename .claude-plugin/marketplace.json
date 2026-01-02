@@ -7,10 +7,7 @@
     "plugins": [
       {
         "name": "my-first-plugin",
-        "source": {
-            "source": "github",
-            "repo": "RookiePython21/Gerald_Plugin"
-        },
+        "source": "https://github.com/RookiePython21/Gerald_Plugin",
         "description": "messing around before i get rich boiii",
         "version": "1.0.0",
         "author": {
