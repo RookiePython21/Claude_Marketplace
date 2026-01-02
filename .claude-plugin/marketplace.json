@@ -1,5 +1,5 @@
 {
-    "name": "Claude_Marketplace",
+    "name": "Gerald_Marketplace",
     "owner": {
       "name": "gerald adkins",
       "email": "devtools@example.com"
@@ -9,7 +9,7 @@
         "name": "my-first-plugin",
         "source": {
             "source": "github",
-            "repo": "RookiePython21/Claude_Plugin"
+            "repo": "RookiePython21/Gerald_Plugin"
         },
         "description": "messing around before i get rich boiii",
         "version": "1.0.0",
